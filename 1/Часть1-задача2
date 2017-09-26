@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp14
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Введите первоначальную координату столбца: ");
+            string firstPosition = Console.ReadLine();
+            Console.Write("Введите конечную координату столбца: ");
+            string secondPosition = Console.ReadLine();
+            int x = Convert.ToInt32(secondPosition[1]) - Convert.ToInt32(firstPosition[1]);
+            if (firstPosition[0] == secondPosition[0])
+            {
+                if (firstPosition[1] == '2' && x <= 2 && x >= 1)
+                {
+                    Console.WriteLine("Yes");
+                }
+                else if (x == 1)
+                {
+                    Console.WriteLine("Yes");
+                }
+                else Console.WriteLine("No");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
+            Console.ReadKey();
+        }
+    }
+}
