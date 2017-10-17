@@ -12,7 +12,7 @@ namespace ConsoleApp9
             Console.Write("Введите y: ");
             int y = Convert.ToInt32(Console.ReadLine());
             Console.Write("Ответ: ");
-            Console.WriteLine(2 * x * 134 * x - x * x);
+            Console.WriteLine(2 * x + 134 * x - x * x);
             Console.ReadKey();
         }
     }
