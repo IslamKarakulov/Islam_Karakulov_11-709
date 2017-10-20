@@ -11,45 +11,30 @@ namespace ConsoleApp16
         static void Main(string[] args)
         {
 
-            Console.Write("Введите количество элементов в массиве: ");
-            int n = Convert.ToInt32(Console.ReadLine());
-            double[] array = new double[n];
-            bool is_prev_neg;
-            bool sign = true;
-            for (int i = 0; i < n; i++)
+            Console.Write("Введите первое число: ");
+            int first = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите систему счисления, в которую хотите перевести первое число: ");
+            int k = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите второе число: ");
+            int second = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите систему счисления, в которую хотите перевести второе число: ");
+            int m = Convert.ToInt32(Console.ReadLine());
+            int x = 0;
+            int y = 0;
+            int i = 1;
+            while (first > 0)
             {
-                array[i] = Convert.ToInt32(Console.ReadLine());
+                x += (first % k);
+                first = first / 0b10;
             }
-            if (array[0] < 0)
+            Console.WriteLine(x.Reverse().ToArray());
+            i = 1;
+            while (second > 0)
             {
-                is_prev_neg = true;
+                y += (second % m);
+                second = second / 0b10;
             }
-            else
-            {
-                is_prev_neg = false;
-            }
-            for (int i = 1; i < n; i++)
-            {
-                if ((array[i] > 0) && (is_prev_neg == true))
-                {
-                    is_prev_neg = false;
-                }
-                else if ((array[i] < 0) && (is_prev_neg == false))
-                {
-                    is_prev_neg = true;
-                }
-                else
-                {
-                    Console.WriteLine("Последовательность не знакопеременна");
-                    sign = false;
-                    break;
-                }
-
-            }
-            if (sign)
-            {
-                Console.WriteLine("Последовательность знакоперменна");
-            }
+            Console.WriteLine(y.Reverse().ToArray());
             Console.ReadKey();
         }
     }
