@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimSort", "TimSort\TimSort.csproj", "{B0F548B9-097A-4241-A701-DE157D20476D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F548B9-097A-4241-A701-DE157D20476D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F548B9-097A-4241-A701-DE157D20476D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F548B9-097A-4241-A701-DE157D20476D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F548B9-097A-4241-A701-DE157D20476D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

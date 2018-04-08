@@ -1,0 +1,5 @@
+C:\Users\Ислам\RiderProjects\TimSort\TimSort\bin\Debug\TimSort.exe
+C:\Users\Ислам\RiderProjects\TimSort\TimSort\bin\Debug\TimSort.pdb
+C:\Users\Ислам\RiderProjects\TimSort\TimSort\obj\Debug\TimSort.csprojResolveAssemblyReference.cache
+C:\Users\Ислам\RiderProjects\TimSort\TimSort\obj\Debug\TimSort.exe
+C:\Users\Ислам\RiderProjects\TimSort\TimSort\obj\Debug\TimSort.pdb
