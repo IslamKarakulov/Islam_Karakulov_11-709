@@ -1,0 +1,8 @@
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\bin\Debug\VS_1.exe
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\bin\Debug\VS_1.pdb
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\obj\Debug\VS_1.Form1.resources
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\obj\Debug\VS_1.Properties.Resources.resources
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\obj\Debug\VS_1.csproj.GenerateResource.Cache
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\obj\Debug\VS_1.exe
+C:\Users\igemon\AppData\Local\Temporary Projects\VS_1\obj\Debug\VS_1.pdb

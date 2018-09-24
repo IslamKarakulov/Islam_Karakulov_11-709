@@ -1,0 +1,52 @@
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1.Form1.resources
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1.Properties.Resources.resources
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csproj.GenerateResource.Cache
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\bin\Debug\VS_1_1.exe
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\bin\Debug\VS_1_1.pdb
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1_1.exe
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1_1.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1_1.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1_1.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\bin\Debug\VS_1_1.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\bin\Debug\VS_1_1.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csproj.GenerateResource.Cache
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\obj\Debug\VS_1_1.exe
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\obj\Debug\VS_1_1.pdb
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\bin\Debug\VS_1_1.exe
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\bin\Debug\VS_1_1.pdb
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\obj\Debug\VS_1.Form1.resources
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\obj\Debug\VS_1.Properties.Resources.resources
+C:\Users\Never\Desktop\VS_1_1\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csproj.GenerateResource.Cache
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1_1.exe
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1_1.pdb
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\bin\Debug\VS_1_1.exe
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\bin\Debug\VS_1_1.pdb
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1.Form1.resources
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1.Properties.Resources.resources
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csproj.GenerateResource.Cache
+C:\Users\igemon\Documents\Visual Studio 2008\Projects\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1.Graph_form.resources
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1_1.exe
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1_1.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\bin\Debug\VS_1_1.exe
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\bin\Debug\VS_1_1.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1.Form1.resources
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1.Graph_form.resources
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Рабочий стол\proga_grafiki\прога графики\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csproj.GenerateResource.Cache
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\bin\Debug\VS_1_1.exe
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\bin\Debug\VS_1_1.pdb
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csprojAssemblyReference.cache
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1.Form1.resources
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1.Graph_form.resources
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1.Properties.Resources.resources
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csproj.GenerateResource.cache
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1_1.exe
+C:\Users\Ислам\Desktop\VS_1_1\VS_1_1\obj\Debug\VS_1_1.pdb
